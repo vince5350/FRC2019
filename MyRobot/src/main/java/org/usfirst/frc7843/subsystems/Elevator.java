@@ -9,7 +9,7 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc7843.MyRobot.subsystems;
+package org.usfirst.frc7843.subsystems;
 
 
 import org.usfirst.frc7843.MyRobot.commands.*;

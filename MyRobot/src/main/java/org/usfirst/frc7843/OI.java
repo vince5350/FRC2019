@@ -9,7 +9,7 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc7843.MyRobot;
+package org.usfirst.frc7843;
 
 import org.usfirst.frc7843.MyRobot.commands.*;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
