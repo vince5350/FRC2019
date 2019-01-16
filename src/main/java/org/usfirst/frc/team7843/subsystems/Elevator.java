@@ -9,10 +9,9 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc7843.subsystems;
+package org.usfirst.frc.team7843.subsystems;
 
 
-import org.usfirst.frc7843.MyRobot.commands.*;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.PIDOutput;

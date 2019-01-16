@@ -9,7 +9,7 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc7843;
+package org.usfirst.frc.team7843;
 
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.command.Command;
@@ -17,8 +17,7 @@ import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import org.usfirst.frc7843.MyRobot.commands.*;
-import org.usfirst.frc7843.MyRobot.subsystems.*;
+import org.usfirst.frc.team7843.subsystems.*;
 
 /**
  * The VM is configured to automatically run this class, and to call the

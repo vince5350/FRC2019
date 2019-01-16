@@ -9,7 +9,7 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc7843;
+package org.usfirst.frc.team7843;
 
 import edu.wpi.first.wpilibj.RobotBase;
 
